@@ -3,12 +3,33 @@
 
 <h2>📝 Descrição dos exercícios</h2>
 <ul>
-  <li>Atividade 1: </li>
-  <li>Atividade 2: </li>
-  <li>Atividade 3: </li>
-  <li>Atividade 4: </li>
-  <li>Atividade 5: </li>
-  <li>Atividade 6: </li>
+  <li> <strong>Atividade 1: </strong> Crie um programa que receba uma string do usuário e exiba:
+<br> a) Quantidade de caracteres
+<br> b) A string em letras maiúsculas
+<br> c) Quantidade de vogais
+<br> d) Quantidade de dígitos numéricos </li>
+  <br>
+  <li> <strong>Atividade 2: </strong> Crie um programa que receba um número inteiro do usuário e exiba cada dígito por extenso.
+<br> Exemplo: 4571 → quatro, cinco, sete, um</li>
+  <br>
+  <li> <strong>Atividade 3: </strong> Crie um programa que receba um nome completo do usuário e exiba suas iniciais em maiúsculas, ignorando conectores como de, da, do, dos, das, di, du, e.
+<br> Exemplo: João Carlos dos Santos → JCS </li>
+  <br>
+  <li> <strong>Atividade 4: </strong>Crie um programa que receba um texto e exiba a quantidade total de caracteres e de palavras (Palavras são separadas por espaços em branco).
+  <br> Exemplo: "Estou aprendendo Java" → Caracteres: 23 Palavras: 3 </li>
+  <br>
+  <li> <strong>Atividade 5: </strong> Crie um programa que receba um texto e remova os espaços em branco extras, deixando apenas um espaço entre as palavras.
+  <br> Exemplo: "Estou &nbsp&nbsp&nbspAprendendo &nbsp&nbspJava" → "Estou aprendendo Java"</li>
+  <br>
+  <li><strong>Atividade 6: </strong> Crie um programa em Java que simule um algoritmo genético com:
+<br> - Recombinação: recebe duas strings (S1 e S2) de mesmo tamanho, sorteia um ponto de corte e gera dois filhos (S3 e S4) trocando partes das strings.
+<br> - Mutação: altera aleatoriamente um caractere em um dos filhos. 
+<br> O programa deve: 
+    <br> - Ler S1 e S2; 
+    <br> - Realizar a recombinação e gerar S3 e S4; 
+    <br> - Aplicar mutação em S3 ou S4; 
+    <br> - Exibir os quatro indivíduos (S1, S2, S3, S4).
+</li>
 </ul>
   
 <h2>⛏️ Métodos utilizados na resolução da lista</h2>
